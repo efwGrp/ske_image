@@ -3,7 +3,7 @@
 x="0px" y="0px" width="960px" height="570px" viewBox="0 0 960 570" enable-background="new 0 0 960 570">
 <image overflow="visible" width="960" height="570"
 xlink:href="../img/inputPage.png"></image>
-<line x1="10" y1="250" x2="550" y2="250" stroke="red" stroke-width="2" />
-<line x1="10" y1="240" x2="10" y2="260" stroke="red" stroke-width="2" />
-<line x1="550" y1="240" x2="550" y2="260" stroke="red" stroke-width="2" />
+<line x1="10" y1="270" x2="550" y2="270" stroke="red" stroke-width="2" />
+<line x1="10" y1="260" x2="10" y2="280" stroke="red" stroke-width="2" />
+<line x1="550" y1="260" x2="550" y2="280" stroke="red" stroke-width="2" />
 </svg>
