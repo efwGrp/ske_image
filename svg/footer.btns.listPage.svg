@@ -3,5 +3,5 @@
 x="0px" y="0px" width="960px" height="570px" viewBox="0 0 960 570" enable-background="new 0 0 960 570">
 <image overflow="visible" width="960" height="570"
 xlink:href="../img/listPage.png"></image>
-<rect x="410" y="535" width="140" height="30" stroke="red" fill="none" stroke-width="2" />
+<rect x="770" y="535" width="140" height="30" stroke="red" fill="none" stroke-width="2" />
 </svg>
